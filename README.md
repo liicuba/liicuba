@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I'm Aline</h2>
-<h3 align="center">I'm a data analyst, expanding my skill set by studying data analysis and developing individual and group projects. Currently, I'm a freelancer at an AI company, where I develop and implement training projects to enhance multilingual AI systems. These include Chatbot Training: writing, ranking, and evaluating prompts for effective multilingual communication, and Generative AI Training: creating diverse writing materials to train Portuguese-language generative AI models.
-
-Adding this to my background in sales and global travel experiences has enhanced my communication skills and cultural awareness. I'm looking forward to joining a team where I can fully realize my potential..</h3>
+<h3 align="justify">I'm a data analyst, expanding my skill set by studying data analysis and developing individual and group projects. Currently, I'm a freelancer at an AI company, where I develop and implement training projects to enhance multilingual AI systems. These include Chatbot Training: writing, ranking, and evaluating prompts for effective multilingual communication, and Generative AI Training: creating diverse writing materials to train Portuguese-language generative AI models.
+<br>
+Adding this to my background in sales and global travel experiences has enhanced my communication skills and cultural awareness.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liicuba" alt="liicuba" /></a> </p> -->
 
