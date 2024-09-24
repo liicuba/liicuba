@@ -9,11 +9,11 @@ Adding this to my background in sales and global travel experiences has enhanced
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liicuba" alt="liicuba" /></a> </p> -->
 
-- 🔭 I’m currently working on [My final project](Soon)
+- 🔭 I’m currently working on [Le Wagon Data Analytics Bootcamp - My final project](https://www.canva.com/design/DAGQkMH3HDc/RudzknJbJfcGd8kT90EgRg/edit?utm_content=DAGQkMH3HDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 🌱 I’m currently learning **Power BI and Python for data analysis**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 All of my projects are available at [here](https://lookerstudio.google.com/u/0/reporting/27f4e6b9-e716-4d79-906d-6403c1f5a74d/page/p_nmwgx8fbkd)
 
 - 💬 Ask me about **BigQuery, Google Sheets,**
 
