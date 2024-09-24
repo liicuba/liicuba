@@ -19,7 +19,7 @@ Adding this to my background in sales and global travel experiences has enhanced
 
 - 📫 How to reach me **alinecuba7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aline-cuba-2236ba191/](https://www.linkedin.com/in/aline-cuba-2236ba191/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/aline-cuba/)
 
 - ⚡ Fun fact **I'm obsessed with Lego.:D**
 
