@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋 I'm Aline</h2>
-<h3 align="justify">I'm a data analyst, expanding my skill set by studying data analysis and developing individual and group projects. 
+<h3 align="justify">I'm studing to became a data analyst, expanding my skill set by studying data analysis and developing individual and group projects. 
 <br>
 <br>
 Currently, I'm a freelancer at an AI company, where I develop and implement training projects to enhance multilingual AI systems. These include Chatbot Training: writing, ranking, and evaluating prompts for effective multilingual communication, and Generative AI Training: creating diverse writing materials to train Portuguese-language generative AI models.
