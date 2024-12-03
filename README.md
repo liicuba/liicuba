@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋 I'm Aline</h2>
-<h3 align="justify">I'm studing to became a data analyst, expanding my skill set by studying data analysis and developing individual and group projects. 
+<h3 align="justify"> Expanding my skill set by studying data analysis and developing individual and group projects. 
 <br>
 <br>
-Currently, I'm a freelancer at an AI company, where I develop and implement training projects to enhance multilingual AI systems. These include Chatbot Training: writing, ranking, and evaluating prompts for effective multilingual communication, and Generative AI Training: creating diverse writing materials to train Portuguese-language generative AI models.
+Currently, I am open to work.
 <br>
 <br>
 Adding this to my background in sales and global travel experiences has enhanced my communication skills and cultural awareness.</h3>
